@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Grupo Enjinia — Construction, Import & Technology",
+    "description": "Grupo Enjinia integrates construction, procurement, developments and digital solutions for construction, industry and logistics."
+  },
+  "nav": {
+    "grupo": "About Enjinia",
+    "empresas": "Companies",
+    "construcciones": "Construction",
+    "importador": "Importer",
+    "desarrollos": "Developments",
+    "digital": "Digital",
+    "importaciones": "Importations",
+    "proyectos": "Projects",
+    "soluciones": "Solutions",
+    "catalogos": "Catalogues",
+    "recursos": "Resources",
+    "contacto": "Contact",
+    "cotizar": "Request a quote"
+  },
+  "home": {
+    "hero": {
+      "overline": "Grupo Enjinia",
+      "title": "Construction, importation and technology for real projects.",
+      "subtitle": "We integrate works, procurement, developments and digital solutions for construction, industry and logistics.",
+      "cta1": "About the group",
+      "cta2": "View importations",
+      "cta3": "Request a quote"
+    },
+    "capabilities": {
+      "overline": "Four capabilities",
+      "title": "One group, multiple connected capabilities",
+      "subtitle": "Enjinia brings together four complementary units to build, supply, develop and optimize projects.",
+      "items": [
+        { "number": "01", "label": "Execution", "desc": "Civil and industrial works with technical expertise and a results-driven focus." },
+        { "number": "02", "label": "Procurement", "desc": "Import and distribution of products, machinery and solutions." },
+        { "number": "03", "label": "Development", "desc": "Architectural and real estate projects from design to delivery." },
+        { "number": "04", "label": "Optimization", "desc": "Technology applied to control, management and operations." }
+      ]
+    },
+    "units": {
+      "overline": "Group companies",
+      "title": "Four units. One ecosystem.",
+      "items": [
+        {
+          "name": "Enjinia Construcciones",
+          "tag": "Execution",
+          "desc": "Civil and industrial works with technical capacity and execution focus.",
+          "detail": "Civil works, industrial buildings, warehouses, infrastructure, maintenance and public tenders."
+        },
+        {
+          "name": "Enjinia Importador",
+          "tag": "Procurement",
+          "desc": "Products, machinery and solutions for construction, industry and logistics.",
+          "detail": "Catalogue, procurement and custom solutions for projects of any scale."
+        },
+        {
+          "name": "Enjinia Desarrollos",
+          "tag": "Development",
+          "desc": "Integral projects developed alongside CASA NAVE.",
+          "detail": "Neighborhoods, housing, warehouses, industrial buildings and integral architectural projects."
+        },
+        {
+          "name": "Enjinia Digital",
+          "tag": "Optimization",
+          "desc": "Technology applied to real-world control, management and operations.",
+          "detail": "Automation, tracking systems and digital solutions for construction and industry."
+        }
+      ],
+      "cta": "View company"
+    },
+    "solutions": {
+      "overline": "Full process",
+      "title": "Solutions for every project stage",
+      "subtitle": "We support complete processes, from planning through to operation.",
+      "stages": [
+        { "label": "Planning", "desc": "Design, engineering and projects." },
+        { "label": "Construction", "desc": "Civil and industrial works." },
+        { "label": "Procurement", "desc": "Imported products and machinery." },
+        { "label": "Operations", "desc": "Technology and optimization." }
+      ]
+    },
+    "importations": {
+      "overline": "Importations",
+      "title": "We import what your operation needs",
+      "subtitle": "We select solutions for construction, industry and logistics.",
+      "cta1": "View catalogue",
+      "cta2": "Download catalogue",
+      "cta3": "Request quote",
+      "categories": [
+        { "name": "Buildings & structures", "tag": "Structures" },
+        { "name": "Sheets & panels", "tag": "Materials" },
+        { "name": "Machinery", "tag": "Equipment" },
+        { "name": "Concrete", "tag": "Supplies" },
+        { "name": "Internal logistics", "tag": "Logistics" },
+        { "name": "Solar energy", "tag": "Energy" },
+        { "name": "Industrial safety", "tag": "Safety" },
+        { "name": "Industrial equipment", "tag": "Equipment" }
+      ]
+    },
+    "projects": {
+      "overline": "Projects",
+      "title": "Real projects",
+      "subtitle": "Experience in works, developments and applied solutions.",
+      "cta": "View all projects",
+      "stats": [
+        { "value": "120+", "label": "Completed works" },
+        { "value": "8", "label": "Source countries" },
+        { "value": "15", "label": "Years of experience" },
+        { "value": "40+", "label": "Active clients" }
+      ]
+    },
+    "industries": {
+      "overline": "Sectors",
+      "title": "We work in every sector that builds.",
+      "items": ["Construction", "Industry", "Logistics", "Agribusiness", "Retail", "Developments", "Public sector"]
+    },
+    "resources": {
+      "overline": "Resources",
+      "title": "Catalogues, technical sheets and documentation.",
+      "subtitle": "Access all technical information on our products and solutions.",
+      "cta": "View resources"
+    },
+    "contact": {
+      "overline": "Contact",
+      "title": "Let's talk about your project",
+      "subtitle": "Tell us what you need and we'll respond with a concrete proposal.",
+      "options": [
+        { "label": "Quote a work", "href": "/contacto?tipo=obra" },
+        { "label": "Enquire importation", "href": "/contacto?tipo=importacion" },
+        { "label": "Development", "href": "/contacto?tipo=desarrollo" },
+        { "label": "Digital solution", "href": "/contacto?tipo=digital" }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Connected capabilities for real projects.",
+    "companies": "Companies",
+    "links": "Links",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "rights": "All rights reserved."
+  }
+}

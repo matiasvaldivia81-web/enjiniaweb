@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Grupo Enjinia — Construcción, Importación y Tecnología",
+    "description": "Grupo Enjinia integra obras, abastecimiento, desarrollos y soluciones digitales para construcción, industria y logística."
+  },
+  "nav": {
+    "grupo": "Grupo Enjinia",
+    "empresas": "Empresas",
+    "construcciones": "Construcciones",
+    "importador": "Importador",
+    "desarrollos": "Desarrollos",
+    "digital": "Digital",
+    "importaciones": "Importaciones",
+    "proyectos": "Proyectos",
+    "soluciones": "Soluciones",
+    "catalogos": "Catálogos",
+    "recursos": "Recursos",
+    "contacto": "Contacto",
+    "cotizar": "Solicitar cotización"
+  },
+  "home": {
+    "hero": {
+      "overline": "Grupo Enjinia",
+      "title": "Construcción, importación y tecnología para proyectos reales.",
+      "subtitle": "Integra obras, abastecimiento, desarrollos y soluciones digitales para construcción, industria y logística.",
+      "cta1": "Conocer el grupo",
+      "cta2": "Ver importaciones",
+      "cta3": "Solicitar cotización"
+    },
+    "capabilities": {
+      "overline": "Cuatro capacidades",
+      "title": "Un grupo, múltiples capacidades conectadas",
+      "subtitle": "Enjinia reúne cuatro unidades que se complementan para construir, abastecer, desarrollar y optimizar proyectos.",
+      "items": [
+        { "number": "01", "label": "Ejecución", "desc": "Obras civiles e industriales con capacidad técnica y foco en resultados." },
+        { "number": "02", "label": "Abastecimiento", "desc": "Importación y comercialización de productos, maquinaria y soluciones." },
+        { "number": "03", "label": "Desarrollo", "desc": "Proyectos arquitectónicos e inmobiliarios desde el diseño hasta la entrega." },
+        { "number": "04", "label": "Optimización", "desc": "Tecnología aplicada al control, la gestión y la operación." }
+      ]
+    },
+    "units": {
+      "overline": "Las empresas del grupo",
+      "title": "Cuatro unidades. Un ecosistema.",
+      "items": [
+        {
+          "name": "Enjinia Construcciones",
+          "tag": "Ejecución",
+          "desc": "Obras civiles e industriales con capacidad técnica y foco en ejecución.",
+          "detail": "Obras civiles, naves industriales, galpones, infraestructura, mantenimiento y licitaciones."
+        },
+        {
+          "name": "Enjinia Importador",
+          "tag": "Abastecimiento",
+          "desc": "Productos, maquinaria y soluciones para construcción, industria y logística.",
+          "detail": "Catálogo, abastecimiento y soluciones a medida para proyectos de cualquier escala."
+        },
+        {
+          "name": "Enjinia Desarrollos",
+          "tag": "Desarrollo",
+          "desc": "Proyectos integrales desarrollados junto a CASA NAVE.",
+          "detail": "Barrios, viviendas, galpones, naves industriales y proyectos arquitectónicos integrales."
+        },
+        {
+          "name": "Enjinia Digital",
+          "tag": "Optimización",
+          "desc": "Tecnología aplicada al control, la gestión y la operación real.",
+          "detail": "Automatización, sistemas de seguimiento y soluciones digitales para construcción e industria."
+        }
+      ],
+      "cta": "Ver empresa"
+    },
+    "solutions": {
+      "overline": "Proceso completo",
+      "title": "Soluciones para cada etapa del proyecto",
+      "subtitle": "Acompañamos procesos completos, desde la planificación hasta la operación.",
+      "stages": [
+        { "label": "Planificación", "desc": "Diseño, ingeniería y proyectos." },
+        { "label": "Construcción", "desc": "Obras civiles e industriales." },
+        { "label": "Abastecimiento", "desc": "Productos y maquinaria importada." },
+        { "label": "Operación", "desc": "Tecnología y optimización." }
+      ]
+    },
+    "importations": {
+      "overline": "Importaciones",
+      "title": "Importamos lo que tu operación necesita",
+      "subtitle": "Seleccionamos soluciones para construcción, industria y logística.",
+      "cta1": "Ver catálogo",
+      "cta2": "Descargar catálogo",
+      "cta3": "Cotizar",
+      "categories": [
+        { "name": "Galpones y estructuras", "tag": "Estructuras" },
+        { "name": "Chapas y paneles", "tag": "Materiales" },
+        { "name": "Maquinaria", "tag": "Equipos" },
+        { "name": "Hormigón", "tag": "Insumos" },
+        { "name": "Logística interna", "tag": "Logística" },
+        { "name": "Energía solar", "tag": "Energía" },
+        { "name": "Seguridad industrial", "tag": "Seguridad" },
+        { "name": "Equipamiento industrial", "tag": "Equipos" }
+      ]
+    },
+    "projects": {
+      "overline": "Proyectos",
+      "title": "Proyectos reales",
+      "subtitle": "Experiencia en obras, desarrollos y soluciones aplicadas.",
+      "cta": "Ver todos los proyectos",
+      "stats": [
+        { "value": "120+", "label": "Obras ejecutadas" },
+        { "value": "8", "label": "Países de origen" },
+        { "value": "15", "label": "Años de trayectoria" },
+        { "value": "40+", "label": "Clientes activos" }
+      ]
+    },
+    "industries": {
+      "overline": "Sectores",
+      "title": "Trabajamos en todos los sectores que construyen.",
+      "items": ["Construcción", "Industria", "Logística", "Agroindustria", "Retail", "Desarrollos", "Sector público"]
+    },
+    "resources": {
+      "overline": "Recursos",
+      "title": "Catálogos, fichas técnicas y documentación.",
+      "subtitle": "Accedé a toda la información técnica de nuestros productos y soluciones.",
+      "cta": "Ver recursos"
+    },
+    "contact": {
+      "overline": "Contacto",
+      "title": "Hablemos de tu proyecto",
+      "subtitle": "Contanos qué necesitás y te respondemos con una propuesta concreta.",
+      "options": [
+        { "label": "Cotizar obra", "href": "/contacto?tipo=obra" },
+        { "label": "Consultar importación", "href": "/contacto?tipo=importacion" },
+        { "label": "Desarrollo", "href": "/contacto?tipo=desarrollo" },
+        { "label": "Solución digital", "href": "/contacto?tipo=digital" }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Capacidades conectadas para proyectos reales.",
+    "companies": "Empresas",
+    "links": "Accesos",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de uso",
+    "rights": "Todos los derechos reservados."
+  }
+}
