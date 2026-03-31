@@ -7,14 +7,14 @@ import { ArrowRight, Download } from "lucide-react";
 import AnimateInView from "@/components/ui/AnimateInView";
 
 const categoryImages = [
-  "https://images.unsplash.com/photo-1565372195458-9de0b320ef04?w=400&q=80",
-  "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
-  "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=400&q=80",
-  "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&q=80",
-  "https://images.unsplash.com/photo-1553413077-190dd305871c?w=400&q=80",
-  "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&q=80",
-  "https://images.unsplash.com/photo-1581092160562-40aa08e12f38?w=400&q=80",
-  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&q=80",
+  "/images/cat-estructuras.jpg",
+  "/images/cat-chapas.jpg",
+  "/images/cat-maquinaria.jpg",
+  "/images/cat-hormigon.jpg",
+  "/images/cat-logistica.jpg",
+  "/images/cat-solar.jpg",
+  "/images/cat-seguridad.jpg",
+  "/images/cat-equipamiento.jpg",
 ];
 
 export default function ImportationsSection() {

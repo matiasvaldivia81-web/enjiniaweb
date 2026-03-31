@@ -15,7 +15,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1920&q=85"
+          src="/images/hero-bg.jpg"
           alt="Obra de construcción industrial"
           fill
           className="object-cover object-center opacity-20"

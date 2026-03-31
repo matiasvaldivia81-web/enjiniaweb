@@ -7,10 +7,10 @@ import { ArrowRight } from "lucide-react";
 import AnimateInView from "@/components/ui/AnimateInView";
 
 const unitImages = [
-  "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=600&q=80",
-  "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&q=80",
-  "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&q=80",
-  "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+  "/images/unit-construcciones.jpg",
+  "/images/unit-importador.jpg",
+  "/images/unit-desarrollos.jpg",
+  "/images/unit-digital.jpg",
 ];
 
 const unitHrefs = [

@@ -7,31 +7,11 @@ import { ArrowRight } from "lucide-react";
 import AnimateInView from "@/components/ui/AnimateInView";
 
 const projectImages = [
-  {
-    src: "https://images.unsplash.com/photo-1485083269755-a7b559a4fe5e?w=800&q=80",
-    alt: "Obra industrial",
-    span: "col-span-2 row-span-2",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1590417974735-f5e02f1e3d65?w=600&q=80",
-    alt: "Estructura metálica",
-    span: "col-span-1",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&q=80",
-    alt: "Nave industrial",
-    span: "col-span-1",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80",
-    alt: "Edificio comercial",
-    span: "col-span-1",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1581093806997-124204d9fa9d?w=600&q=80",
-    alt: "Instalaciones industriales",
-    span: "col-span-1",
-  },
+  { src: "/images/project-1.jpg", alt: "Obra industrial" },
+  { src: "/images/project-2.jpg", alt: "Estructura metálica" },
+  { src: "/images/project-3.jpg", alt: "Nave industrial" },
+  { src: "/images/project-4.jpg", alt: "Edificio comercial" },
+  { src: "/images/project-5.jpg", alt: "Instalaciones industriales" },
 ];
 
 export default function ProjectsSection() {
